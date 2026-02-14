@@ -9,10 +9,6 @@ Marketing website for [Flickard](https://github.com/ygteker/Flickard), a SwiftUI
 - **Terms of Use** (`terms.html`) — MIT license, as-is disclaimer
 - **Support** (`support.html`) — Bug reporting and FAQ
 
-## Setup
-
-No build tools needed. Open `index.html` in a browser or deploy to any static hosting (GitHub Pages, Netlify, etc.).
-
 ## Structure
 
 ```
@@ -25,7 +21,3 @@ No build tools needed. Open `index.html` in a browser or deploy to any static ho
     ├── icon.png
     └── screenshot_*.png
 ```
-
-## License
-
-MIT
